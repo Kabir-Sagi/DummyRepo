@@ -4,7 +4,7 @@ import React from "react";
 function Form2() {
   return (
     <div className="form-2">
-      <h1>Welcome to Form Component</h1>
+      <h1>Welcome to React JS</h1>
     </div>
   );
 };
